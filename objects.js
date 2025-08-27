@@ -9,4 +9,5 @@ let myObject = {
         zipCode: "12345"
     }}
 
+    console.log(myObject.address.city);
     
